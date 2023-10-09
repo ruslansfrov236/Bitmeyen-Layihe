@@ -1,0 +1,123 @@
+{
+    "popular-product": [
+        {
+            "id": 1,
+            "category-name": "Snack",
+            "title": "Seeds of Change Organic Quinoa, Brown, & Red Rice",
+            "detail": "NestFood",
+            "price": "28.85 ",
+            "price-old": "32.8",
+            "hot": " Hot",
+            "isHotBoolean": true,
+            "hot-color": "hot-pink",
+            "img-1": "./src/img/product-1-1.jpg",
+            "img-2": "./src/img/product-1-2.jpg"
+        },
+        {
+            "id": 2,
+            "category-name": "Hodo Foods",
+            "title": "All Natural Italian-Style Chicken Meatballs",
+            "detail": "Stouffer",
+            "price": "52.85 ",
+            "price-old": "55.8",
+            "hot": " Hot",
+            "hot-color": " hot-blue",
+            "img-1": "./src/img/product-2-1.jpg",
+            "img-2": "./src/img/product-2-2.jpg"
+        },
+        {
+            "id": 3,
+            "category-name": "Snack",
+            "title": "Angie's Boomchickapop Sweet & Salty Kettle Corn",
+            "detail": "StarKist",
+            "hot": " Hot",
+            "price": "48.85 ",
+            "price-old": "52.8",
+            "hot-color": "hot-kok",
+            "img-1": "./src/img/product-3-1.jpg",
+            "img-2": "./src/img/product-3-2.jpg"
+        },
+        {
+            "id": 4,
+            "category-name": "Vegetables",
+            "title": "Foster Farms Takeout Crispy Classic Buffalo Wings",
+            "detail": "NestFood",
+            "price": "48.85 ",
+            "price-old": "52.8",
+            "img-1": "./src/img/product-3-1.jpg",
+            "img-2": "./src/img/product-3-2.jpg"
+        },
+        {
+            "id": 5,
+            "category-name": "Pet Foods",
+            "title": "Blue Diamond Almonds Lightly Salted Vegetables",
+            "detail": "NestFood",
+            "price": "48.85 ",
+            "price-old": "52.8",
+            "hot": " Hot",
+            "isHotBoolean": true,
+            "hot-color": "hot-green",
+            "img-1": "./src/img/product-5-1.jpg",
+            "img-2": "./src/img/product-5-2.jpg"
+        },
+        {
+            "id": 6,
+            "category-name": "Hodo Foods",
+            "title": "Chobani Complete Vanilla Greek Yogurt",
+            "detail": "NestFood",
+            "price": "54.85 ",
+            "price-old": "55.8",
+            "img-1": "./src/img/product-6-1.jpg",
+            "img-2": "./src/img/product-6-2.jpg"
+        },
+        {
+            "id": 7,
+            "category-name": "Meats",
+            "title": "Canada Dry Ginger Ale – 2 L Bottle - 200ml - 400g",
+            "detail": "NestFood",
+            "price": "32.85 ",
+            "price-old": "33.8",
+            
+            "img-1": "./src/img/product-7-1.jpg",
+            "img-2": "./src/img/product-7-2.jpg"
+        },
+        {
+            "id": 8,
+            "category-name": "Snack",
+            "title": "Encore Seafoods Stuffed Alaskan Salmon",
+            "detail": "NestFood",
+            "price": "48.85 ",
+            "price-old": "52.8",
+            "hot": "Sale",
+            "isHotBoolean": true,
+            "hot-color": " hot-blue",
+            "img-1": "./src/img/product-8-1.jpg",
+            "img-2": "./src/img/product-8-2.jpg"
+        },
+        {
+            "id": 9,
+            "category-name": "Coffes",
+            "title": "Gorton’s Beer Battered Fish Fillets with soft paper",
+            "detail": "Old El Paso",
+            "price": "23.85  ",
+            "price-old": "25.8",
+            "hot": " Hot",
+            "isHotBoolean": true,
+            "hot-color": "hot-pink",
+            "img-1": "./src/img/product-9-1.jpg",
+            "img-2": "./src/img/product-9-2.jpg"
+        },
+        {
+            "id": 10,
+            "category-name": "Cream",
+            "title": "Haagen-Dazs Caramel Cone Ice Cream Ketchup",
+            "detail": "Tyson",
+            "price": "22.85 ",
+            "price-old": "24.8 ",
+            "img-1": "./src/img/product-10-1.jpg",
+            "img-2": "./src/img/product-10-2.jpg"
+        }
+      
+
+    ]
+}

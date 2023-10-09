@@ -1,0 +1,51 @@
+@charset 'UTF-8';
+
+:root {
+    --green-color: #29a56c;
+    --white-color: #fff;
+    --white-color-200: #f2fce4;
+    --font-color: #7E7E7E;
+    --btn-color: #3bb77e;
+    --black-color: #253D4E;
+}
+
+/* Slider */
+.slick-loading .slick-list {
+    background: #fff url('./ajax-loader.gif') center center no-repeat;
+}
+
+/* Icons */
+@font-face {
+    font-family: 'slick';
+    font-weight: normal;
+    font-style: normal;
+
+    src: url('./fonts/slick.eot');
+    src: url('./fonts/slick.eot?#iefix') format('embedded-opentype'), url('./fonts/slick.woff') format('woff'), url('./fonts/slick.ttf') format('truetype'), url('./fonts/slick.svg#slick') format('svg');
+}
+
+/* Arrows */
+.slick-prev,
+.slick-next {
+
+  
+
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
